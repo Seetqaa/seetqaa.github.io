@@ -1,0 +1,19 @@
+@font-face {
+	font-family: "Bebas";
+	src: url("../fonts/Bebas/BebasRegular.eot");
+	src: url("../fonts/Bebas/BebasRegular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/Bebas/BebasRegular.woff") format("woff"),
+	url("../fonts/Bebas/BebasRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Bebas";
+	src: url("../fonts/Bebas/BebasBold.eot");
+	src: url("../fonts/Bebas/BebasBold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/Bebas/BebasBold.woff") format("woff"),
+	url("../fonts/Bebas/BebasBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: bold;
+}
